@@ -7,5 +7,10 @@
             "email": "ak56lk@gmx.net"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cheesecake\\Http\\": "src/"
+        }
+    }
 }
