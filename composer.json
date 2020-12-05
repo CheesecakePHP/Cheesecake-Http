@@ -1,0 +1,11 @@
+{
+    "name": "cheesecake/http",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Meyer",
+            "email": "ak56lk@gmx.net"
+        }
+    ],
+    "require": {}
+}
